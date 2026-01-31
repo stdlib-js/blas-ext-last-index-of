@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import lastIndexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-last-index-of@esm/index.mjs';
+import lastIndexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-last-index-of@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-last-index-of@esm/index.mjs';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-last-index-of@v0.1.0-esm/index.mjs';
 ```
 
 #### lastIndexOf( x, searchElement\[, fromIndex]\[, options] )
@@ -237,7 +237,7 @@ The method accepts the following options:
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ctor@esm/index.mjs';
-import lastIndexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-last-index-of@esm/index.mjs';
+import lastIndexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-last-index-of@v0.1.0-esm/index.mjs';
 
 // Generate an array of random numbers:
 var xbuf = discreteUniform( 10, 0, 20, {

@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-last-index-of",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return the last index of a specified search element along an ndarray dimension.",
   "license": "Apache-2.0",
   "author": {
@@ -41,16 +41,16 @@
     "@stdlib/assert-is-integer": "^0.2.2",
     "@stdlib/assert-is-ndarray-like": "^0.2.2",
     "@stdlib/assert-is-plain-object": "^0.2.2",
-    "@stdlib/blas-ext-base-ndarray-dlast-index-of": "github:stdlib-js/blas-ext-base-ndarray-dlast-index-of#main",
-    "@stdlib/blas-ext-base-ndarray-glast-index-of": "github:stdlib-js/blas-ext-base-ndarray-glast-index-of#main",
-    "@stdlib/blas-ext-base-ndarray-slast-index-of": "github:stdlib-js/blas-ext-base-ndarray-slast-index-of#main",
+    "@stdlib/blas-ext-base-ndarray-dlast-index-of": "^0.1.0",
+    "@stdlib/blas-ext-base-ndarray-glast-index-of": "^0.1.0",
+    "@stdlib/blas-ext-base-ndarray-slast-index-of": "^0.1.0",
     "@stdlib/ndarray-base-broadcast-scalar": "^0.2.2",
-    "@stdlib/ndarray-base-complement-shape": "github:stdlib-js/ndarray-base-complement-shape#main",
+    "@stdlib/ndarray-base-complement-shape": "^0.1.0",
     "@stdlib/ndarray-base-maybe-broadcast-array": "^0.2.3",
     "@stdlib/ndarray-base-unary-reduce-strided1d-dispatch-factory": "github:stdlib-js/ndarray-base-unary-reduce-strided1d-dispatch-factory#main",
-    "@stdlib/ndarray-defaults": "^0.3.0",
+    "@stdlib/ndarray-defaults": "^0.4.0",
     "@stdlib/ndarray-dtype": "^0.2.2",
-    "@stdlib/ndarray-dtypes": "^0.3.0",
+    "@stdlib/ndarray-dtypes": "^0.4.0",
     "@stdlib/ndarray-order": "^0.2.2",
     "@stdlib/ndarray-shape": "^0.2.2",
     "@stdlib/string-format": "^0.2.2",
@@ -103,7 +103,6 @@
     "array",
     "ndarray"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"

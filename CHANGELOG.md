@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-22)
+## Unreleased (2026-06-04)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`608e415`](https://github.com/stdlib-js/stdlib/commit/608e415c415a9d60e843d8a32043f3257195a11d) - rename interface to PascalCase `LastIndexOf` in `blas/ext/last-index-of` [(#12544)](https://github.com/stdlib-js/stdlib/pull/12544)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`608e415`](https://github.com/stdlib-js/stdlib/commit/608e415c415a9d60e843d8a32043f3257195a11d) - **fix:** rename interface to PascalCase `LastIndexOf` in `blas/ext/last-index-of` [(#12544)](https://github.com/stdlib-js/stdlib/pull/12544) _(by Philipp Burckhardt)_
 -   [`1c2eddf`](https://github.com/stdlib-js/stdlib/commit/1c2eddf59350cdc7dfd3d66eab07ab0291d5f9f6) - **test:** fix dtype comparisons _(by Athan Reines)_
 -   [`ace9b98`](https://github.com/stdlib-js/stdlib/commit/ace9b98cd31056ec3efbbd14b3c12defe96b07fc) - **docs:** improve doctests for ndarray instances in `blas/ext/find-last-index` [(#11487)](https://github.com/stdlib-js/stdlib/pull/11487) _(by Uday Kakade)_
 -   [`a0169bc`](https://github.com/stdlib-js/stdlib/commit/a0169bcfc0d05ac94c206ac5d6d0a898ec304463) - **docs:** remove unused `ndarray2array` requires from README usage examples [(#11194)](https://github.com/stdlib-js/stdlib/pull/11194) _(by Philipp Burckhardt)_

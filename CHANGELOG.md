@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-04)
+## Unreleased (2026-06-15)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b17716c`](https://github.com/stdlib-js/stdlib/commit/b17716c5954f979e72011c0dd34dde9853f3a661) - **chore:** modernize benchmarks and examples [(#12884)](https://github.com/stdlib-js/stdlib/pull/12884) _(by Karan Anand, Athan Reines)_
 -   [`608e415`](https://github.com/stdlib-js/stdlib/commit/608e415c415a9d60e843d8a32043f3257195a11d) - **fix:** rename interface to PascalCase `LastIndexOf` in `blas/ext/last-index-of` [(#12544)](https://github.com/stdlib-js/stdlib/pull/12544) _(by Philipp Burckhardt)_
 -   [`1c2eddf`](https://github.com/stdlib-js/stdlib/commit/1c2eddf59350cdc7dfd3d66eab07ab0291d5f9f6) - **test:** fix dtype comparisons _(by Athan Reines)_
 -   [`ace9b98`](https://github.com/stdlib-js/stdlib/commit/ace9b98cd31056ec3efbbd14b3c12defe96b07fc) - **docs:** improve doctests for ndarray instances in `blas/ext/find-last-index` [(#11487)](https://github.com/stdlib-js/stdlib/pull/11487) _(by Uday Kakade)_
@@ -38,10 +39,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Kamal Singh Rautela
+-   Karan Anand
 -   Philipp Burckhardt
 -   Uday Kakade
 

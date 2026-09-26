@@ -162,7 +162,7 @@ var idx = lastIndexOf( x, 2.0, {
 });
 // returns <ndarray>
 
-var dt = dtype( idx );
+var dt = String( dtype( idx ) );
 // returns 'generic'
 ```
 
